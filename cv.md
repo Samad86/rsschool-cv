@@ -48,3 +48,16 @@ Specialty: HTML-layout designer
 _Saint Petersburg Polytechnic University_
 
 Specialty: Junior Frontend Developer
+
+## Level of English
+_A2 (Pre-Intermediate)_
+
+My goal is to learn English to B2 level. I practice English from lessons on the Internet, in a mobile application Duolingo (vocabulary, listening, grammar). I also watch movies or TV shows in English for practice.
+
+## Personal qualities
+
+- analytical mindset, the ability to find non-trivial solutions;
+- skills for in-depth study of technical documentation, analysis and problem solving;
+- neat, organized, a tendency to perfectionism;
+- good interpersonal and collaboration skills, clearly expressing my thoughts;
+- I like to work in a team.
