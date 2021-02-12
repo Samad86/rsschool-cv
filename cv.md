@@ -26,3 +26,25 @@ Skill set: JS (Framework: [React](https://ru.reactjs.org/); IDE: [VS Code](https
 - [React-Redux_Online-bookshop](https://github.com/Samad86/React-Redux_Online-bookshop) (``React``, ``Axios``, ``React Logger``, ``Redux``, ``Redux Thunk``)
 - [React-Redux_ToDo](https://github.com/Samad86/React_ToDo) (``React``, ``Axios``, ``React Router``)
 - [Examples of site layout](https://github.com/Samad86/Site-layout) (``bem methodology``, ``CSS Grid``, ``SASS``, ``LESS``, ``svg``, ``Gulp``, ``JQuery``)
+
+## Education
+
+### 2009 | Engineer's degree
+
+_Saint Petersburg State Technological Institute (Technical University)_
+
+Cyber Engineering Faculty
+
+Specialty: Engineer, Chemical production automation
+
+## Additional education, courses
+
+### 2017 | Website design and creation
+_Training center Basis_
+
+Specialty: HTML-layout designer
+
+### 2017 | Development of user web-interfaces
+_Saint Petersburg Polytechnic University_
+
+Specialty: Junior Frontend Developer
