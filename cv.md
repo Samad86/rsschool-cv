@@ -20,3 +20,9 @@ I regularly watch webinars such as [GeekBrains](https://geekbrains.ru/events), [
 I improve my practical skills by solving Codewars catas. My Codewars profile: [Samad86](https://www.codewars.com/users/Samad86)
 
 Skill set: JS (Framework: [React](https://ru.reactjs.org/); IDE: [VS Code](https://code.visualstudio.com/), [WebStorm](https://www.jetbrains.com/webstorm/)), [Redux](https://redux.js.org/), Git ([GitHub](https://github.com/))
+
+## Examples of Projects
+
+- [React-Redux_Online-bookshop](https://github.com/Samad86/React-Redux_Online-bookshop) (``React``, ``Axios``, ``React Logger``, ``Redux``, ``Redux Thunk``)
+- [React-Redux_ToDo](https://github.com/Samad86/React_ToDo) (``React``, ``Axios``, ``React Router``)
+- [Examples of site layout](https://github.com/Samad86/Site-layout) (``bem methodology``, ``CSS Grid``, ``SASS``, ``LESS``, ``svg``, ``Gulp``, ``JQuery``)
